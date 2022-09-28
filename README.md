@@ -1,3 +1,3 @@
 # XO-game
-in tother words (Tic Tac Tie)
+in other words (Tic Tac Tie)
  ## Have fun !
